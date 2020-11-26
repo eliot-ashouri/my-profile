@@ -1,0 +1,145 @@
+body {
+    background: whitesmoke;
+    color: blue;
+    font-family: 'Lora', serif;
+    font-size: 17px;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #52057b;
+    font-size: 32px;
+    font-weight: 900;
+}
+
+h2 {
+    color: #52057b;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #2d6187;
+    font-weight: 600;
+    font-size: 16px;
+}
+a:hover {
+    color: aqua;
+}
+
+.studies {
+  background: white;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 0px 5px 10px #150485;
+  text-align: center;
+  border: inset indigo;
+}
+#studies {
+  text-align: center;
+  width: 600px;
+margin: 40px auto;
+}
+
+#studies {
+   background: white;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+}
+
+
+.hobbies {
+  background: white;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 0px 5px 10px #150485;
+  text-align: center;
+}
+#hobbies {
+  text-align: center;
+  width: 600px;
+margin: 40px auto;
+}
+
+#hobbies {
+   background: white;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+}
+
+
+.languages {
+  background: white;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 0px 5px 10px #150485;
+  text-align: center;
+}
+#languages {
+  text-align: center;
+  width: 600px;
+margin: 40px auto;
+}
+
+#languages {
+   background: white;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+}
+
+.social {
+  background: white;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 0px 5px 10px #150485;
+  text-align: center;
+}
+#social {
+  text-align: center;
+  width: 600px;
+margin: 40px auto;
+}
+
+#social {
+   background: white;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+}
+
+
+
+
+.tete {
+text-align: center;
+}
+
+#lien {
+  background-color: aqua; 
+  text-align: center;
+  padding: 15px 20px;
+}
+
+#photo {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
